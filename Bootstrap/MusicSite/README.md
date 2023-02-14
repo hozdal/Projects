@@ -1,2 +1,2 @@
 # MUZIK DUKKANI SITESI
-![Alt Bilgi](video2.gif)
+![Alt Bilgi](assets/video2.gif)
