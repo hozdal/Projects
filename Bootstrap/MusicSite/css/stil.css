@@ -1,0 +1,28 @@
+.bosluk {
+    padding-left: 10px;
+}
+.bg-color {
+    background-color: #E9ECEF;
+}
+.middle-area {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.button {
+    background-color: blue; /* Green */
+    border-radius:20px;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .bg-grey {
+    background-color: gray;
+  }
+  .bg-white {
+    background-color: white;
+  }
